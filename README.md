@@ -41,3 +41,14 @@ Here's what my mods folder looks like. You can leave the zip file in there if yo
 
 Step 5 (Optional): In your minecraft launcher, go to the 'Installations' tab and press the three dots on the newly created Fabric loader installation.
   - Step 5.1: Edit the advanced options and modify the `-Xmx2G` value in the 'Launch Arguments' section. By default minecraft has 2GB of RAM allocated to it (indicated by the 2). Change this to how ever much ram you want to allocate to minecraft. General rule of thumb is half your total available ram.
+
+## FAQ
+
+**Q:** Can I use optifine with this?
+  - **A:** Not at the moment sorry. Optifine causes Origins to crash.
+
+**Q:** Can we add some more origins in? How many is there to begin with?
+  - **A:** There are about 47 origins right now. So do we even need more? Also no - due to a limitation in how the player sends and receives data when joining a server, adding any additional origins can sometimes cause players to be unable to join worlds or servers.
+
+**Q:** What enchantments are there? What origins are there?
+  - **A:** Play and find out! We want everything to be a natural exploration process. There may be some really OP things initially as we still try and find the balance for everything. So just let us know if you think something is too powerful and we may remove/modify it. Cheers.
